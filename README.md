@@ -1,7 +1,7 @@
 Needs Some Packages:
 	ffmpeg  
 	youtube-dl  
-	BeautifulSoup4 if it's fail try install beautifulsoup4 and BeautifulSoup / for python
+	BeautifulSoup4 if it's fail try install beautifulsoup4 and BeautifulSoup / for python  
 	requests / for python  
 Suggested Player:  
 	mplayer  
